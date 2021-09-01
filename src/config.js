@@ -2,6 +2,7 @@ import firebase from 'firebase/app';
 import 'firebase/firestore';
 import 'firebase/auth';
 // Initialize Firebase
+// fill firebase credentials
 let fbObj = {
     apiKey: "AIzaSyCKoJQTgoEukrUOL4tbYMXm9ubM4DpFDNY",
   authDomain: "resume-builder-a95b5.firebaseapp.com",
